@@ -4,4 +4,12 @@ p { font-family: 'Noto Sans', sans-serif; }
 
 h4 { font-family: 'PT Serif', serif; }
 
+nav { border-style: double;
+      border-width: 0.15em;
+      border-color: black;
+      border-radius: 2em; }
+
+body { background-image: url('Hog-warts-images/background.jpg');
+       background-size: cover;
+       background-position: center; }
 
