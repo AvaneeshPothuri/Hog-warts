@@ -4,14 +4,28 @@ p { font-family: 'Noto Sans', sans-serif; }
 
 h4 { font-family: 'PT Serif', serif; }
 
-nav { border-style:outset;
+#nav { border-style:outset;
       border-width: 0.15em;
       border-color: white;
       border-radius: 2em; }
 
-body { background-image: url('Hog-warts-images/background.jpg');
+#body { background-image: url('Hog-warts-images/background.jpg');
        background-size: cover;
        background-position: center; }
 
-#Logo { font-family: 'Marck Script', cursive; }
+.nav-link { font-family: 'Noto Sans', sans-serif; }
+
+.navbar-brand { font-family: 'Marck Script', cursive; }
+
+h5 { font-family: 'PT Serif', serif; }
+
+#text { background-image: url('Hog-warts-images/hogwarts.png');
+        background-size: cover;
+        background-position: center; }
+
+#s-text {  background-image: url('Hog-warts-images/Library.jpg');
+           background-size: cover;
+           background-position: center; }
+
+
 
